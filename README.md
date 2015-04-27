@@ -14,5 +14,5 @@ javascript-hint
 
 2. Run the following commands
 
-<pre>npm install
-gulp</pre>
+<pre>$ npm install
+$ gulp</pre>
